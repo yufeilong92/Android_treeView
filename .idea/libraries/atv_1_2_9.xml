@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="atv-1.2.9">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/5da8d3f1e4f3398e93a243cba618cfc80c96d2ab/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/5da8d3f1e4f3398e93a243cba618cfc80c96d2ab/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bmelnychuk/atv/1.2.9/aea844ca8936029a262f3d9bae7f8a03be084c16/atv-1.2.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

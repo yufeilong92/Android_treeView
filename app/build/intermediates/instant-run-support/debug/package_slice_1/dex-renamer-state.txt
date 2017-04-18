@@ -1,0 +1,4 @@
+#Tue Apr 18 10:42:20 CST 2017
+base.0=D\:\\new_Project\\LawHelperAndroid_czq\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
+renamed.0=classes.dex
+file.0=D\:\\new_Project\\LawHelperAndroid_czq\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex

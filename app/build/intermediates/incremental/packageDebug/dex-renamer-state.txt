@@ -1,0 +1,7 @@
+#Tue Apr 18 10:42:47 CST 2017
+base.0=D\:\\new_Project\\LawHelperAndroid_czq\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0f48252d477a5c9f5d753887cfe77a09e28713ae
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\new_Project\\LawHelperAndroid_czq\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1cb1584780182df3befc9a9dc29453854eef8c05\\classes.dex
+base.1=D\:\\new_Project\\LawHelperAndroid_czq\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1cb1584780182df3befc9a9dc29453854eef8c05
+file.0=D\:\\new_Project\\LawHelperAndroid_czq\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0f48252d477a5c9f5d753887cfe77a09e28713ae\\classes.dex

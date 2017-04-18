@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\new_Project\\LawHelperAndroid_czq\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_two.png",
+        "source": "D:\\new_Project\\LawHelperAndroid_czq\\app\\src\\main\\res\\drawable-mdpi\\ic_two.png"
+    },
+    {
+        "merged": "D:\\new_Project\\LawHelperAndroid_czq\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\home2.png",
+        "source": "D:\\new_Project\\LawHelperAndroid_czq\\app\\src\\main\\res\\drawable-mdpi\\home2.png"
+    },
+    {
+        "merged": "D:\\new_Project\\LawHelperAndroid_czq\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_return.png",
+        "source": "D:\\new_Project\\LawHelperAndroid_czq\\app\\src\\main\\res\\drawable-mdpi\\btn_return.png"
+    },
+    {
+        "merged": "D:\\new_Project\\LawHelperAndroid_czq\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting.png",
+        "source": "D:\\new_Project\\LawHelperAndroid_czq\\app\\src\\main\\res\\drawable-mdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\new_Project\\LawHelperAndroid_czq\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_select_item.png",
+        "source": "D:\\new_Project\\LawHelperAndroid_czq\\app\\src\\main\\res\\drawable-mdpi\\ic_select_item.png"
+    }
+]

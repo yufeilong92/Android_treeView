@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\new_Project\\LawHelperAndroid_czq\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\tools.png",
+        "source": "D:\\new_Project\\LawHelperAndroid_czq\\app\\src\\main\\res\\drawable-xxxhdpi\\tools.png"
+    },
+    {
+        "merged": "D:\\new_Project\\LawHelperAndroid_czq\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\quike_check.png",
+        "source": "D:\\new_Project\\LawHelperAndroid_czq\\app\\src\\main\\res\\drawable-xxxhdpi\\quike_check.png"
+    },
+    {
+        "merged": "D:\\new_Project\\LawHelperAndroid_czq\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\kl_check.png",
+        "source": "D:\\new_Project\\LawHelperAndroid_czq\\app\\src\\main\\res\\drawable-xxxhdpi\\kl_check.png"
+    },
+    {
+        "merged": "D:\\new_Project\\LawHelperAndroid_czq\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home2.png",
+        "source": "D:\\new_Project\\LawHelperAndroid_czq\\app\\src\\main\\res\\drawable-xxxhdpi\\home2.png"
+    },
+    {
+        "merged": "D:\\new_Project\\LawHelperAndroid_czq\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_select_item.png",
+        "source": "D:\\new_Project\\LawHelperAndroid_czq\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_select_item.png"
+    },
+    {
+        "merged": "D:\\new_Project\\LawHelperAndroid_czq\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\skill.png",
+        "source": "D:\\new_Project\\LawHelperAndroid_czq\\app\\src\\main\\res\\drawable-xxxhdpi\\skill.png"
+    }
+]

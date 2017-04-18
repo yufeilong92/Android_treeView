@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\new_Project\LawHelperAndroid_czq\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\new_Project\LawHelperAndroid_czq\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1cb1584780182df3befc9a9dc29453854eef8c05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new_Project\LawHelperAndroid_czq\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99d606acf33c9c5c25b757d146d930e935b27ca4">
+        <dex dex="D:\new_Project\LawHelperAndroid_czq\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0f48252d477a5c9f5d753887cfe77a09e28713ae\classes.dex" />
+    </item>
+
+</items>

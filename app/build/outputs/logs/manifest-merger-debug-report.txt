@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml
+		INJECTED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml
+		INJECTED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml
+		INJECTED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.github.bmelnychuk:atv:1.2.9] C:\Users\YFPHILPS\.android\build-cache\5da8d3f1e4f3398e93a243cba618cfc80c96d2ab\output\AndroidManifest.xml:12:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:3.1.1] C:\Users\YFPHILPS\.android\build-cache\ce382c55dd2d4f5e08dad50ed91ab2c9c6a022b4\output\AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:support-v13:25.1.0] C:\Users\YFPHILPS\.android\build-cache\a5fe8545c4db5ed0b60a8864a287ee83028dbf9d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.1.0] C:\Users\YFPHILPS\.android\build-cache\8dff6ecd90dd96e447d03da699b77f5cf37f2f63\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\YFPHILPS\.android\build-cache\ad0c11cfba3506869e3dd7ae239f18a09c3956d6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\YFPHILPS\.android\build-cache\f0ba1258392ec60e74cc4d89612fbda97fdd6e01\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\YFPHILPS\.android\build-cache\8612d150d09f05b0fe437be567283999863a2ba6\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.0] C:\Users\YFPHILPS\.android\build-cache\f306a6d0af32db527bef360f821368d2734b26d2\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\YFPHILPS\.android\build-cache\f9621d2598ee7eb357ce72f4a874a937eedfb6f1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\YFPHILPS\.android\build-cache\501d4f26275dc002fe1a9d73ffa9319200a6599a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\YFPHILPS\.android\build-cache\e1136e076a8ce537a3a37f9949b0ae1748ae424c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\YFPHILPS\.android\build-cache\3c00a89162a5ab831e8c59047e31bafa2332c20e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\YFPHILPS\.android\build-cache\2642c03f27941a2b19a7cab1cd20c9121eabf42b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\YFPHILPS\.android\build-cache\c319a1746e8fa2a31f4fafb3380888f30bbef01e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\YFPHILPS\.android\build-cache\aa5768655979c0525ca86fdb507d84161cd0bdeb\output\AndroidManifest.xml:26:5-20
+	android:label
+		ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.laywee.lawyeehelper2.activity.MainActivity
+ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:12:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.laywee.lawyeehelper2.activity.PraticalToolActivity
+ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:19:9-67
+	android:name
+		ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:19:19-64
+activity#com.laywee.lawyeehelper2.activity.CalcuPeriodActivity
+ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:20:9-75
+	android:name
+		ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:20:19-63
+activity#com.laywee.lawyeehelper2.activity.CalcuDateActivity
+ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:21:9-73
+	android:name
+		ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:21:19-61
+activity#com.laywee.lawyeehelper2.activity.StartLawTimeActivity
+ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:22:9-76
+	android:name
+		ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:22:19-64
+activity#com.laywee.lawyeehelper2.activity.LitigationActivity
+ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:23:9-74
+	android:name
+		ADDED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml:23:19-62
+uses-sdk
+INJECTED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.github.bmelnychuk:atv:1.2.9] C:\Users\YFPHILPS\.android\build-cache\5da8d3f1e4f3398e93a243cba618cfc80c96d2ab\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.wdullaer:materialdatetimepicker:3.1.1] C:\Users\YFPHILPS\.android\build-cache\ce382c55dd2d4f5e08dad50ed91ab2c9c6a022b4\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v13:25.1.0] C:\Users\YFPHILPS\.android\build-cache\a5fe8545c4db5ed0b60a8864a287ee83028dbf9d\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:design:25.1.0] C:\Users\YFPHILPS\.android\build-cache\8dff6ecd90dd96e447d03da699b77f5cf37f2f63\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\YFPHILPS\.android\build-cache\ad0c11cfba3506869e3dd7ae239f18a09c3956d6\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\YFPHILPS\.android\build-cache\f0ba1258392ec60e74cc4d89612fbda97fdd6e01\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\YFPHILPS\.android\build-cache\8612d150d09f05b0fe437be567283999863a2ba6\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\YFPHILPS\.android\build-cache\ce4bba40a474434ef8f45f5245d8be1ee62826ae\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.0] C:\Users\YFPHILPS\.android\build-cache\f306a6d0af32db527bef360f821368d2734b26d2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\YFPHILPS\.android\build-cache\f9621d2598ee7eb357ce72f4a874a937eedfb6f1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\YFPHILPS\.android\build-cache\501d4f26275dc002fe1a9d73ffa9319200a6599a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\YFPHILPS\.android\build-cache\e1136e076a8ce537a3a37f9949b0ae1748ae424c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\YFPHILPS\.android\build-cache\3c00a89162a5ab831e8c59047e31bafa2332c20e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\YFPHILPS\.android\build-cache\2642c03f27941a2b19a7cab1cd20c9121eabf42b\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\YFPHILPS\.android\build-cache\c319a1746e8fa2a31f4fafb3380888f30bbef01e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\YFPHILPS\.android\build-cache\aa5768655979c0525ca86fdb507d84161cd0bdeb\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.1.0] C:\Users\YFPHILPS\.android\build-cache\a5fe8545c4db5ed0b60a8864a287ee83028dbf9d\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml
+		INJECTED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml
+		INJECTED from D:\new_Project\LawHelperAndroid_czq\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from [com.wdullaer:materialdatetimepicker:3.1.1] C:\Users\YFPHILPS\.android\build-cache\ce382c55dd2d4f5e08dad50ed91ab2c9c6a022b4\output\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [com.wdullaer:materialdatetimepicker:3.1.1] C:\Users\YFPHILPS\.android\build-cache\ce382c55dd2d4f5e08dad50ed91ab2c9c6a022b4\output\AndroidManifest.xml:26:22-63
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.0] C:\Users\YFPHILPS\.android\build-cache\aa5768655979c0525ca86fdb507d84161cd0bdeb\output\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.0] C:\Users\YFPHILPS\.android\build-cache\aa5768655979c0525ca86fdb507d84161cd0bdeb\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.0] C:\Users\YFPHILPS\.android\build-cache\aa5768655979c0525ca86fdb507d84161cd0bdeb\output\AndroidManifest.xml:23:9-47
